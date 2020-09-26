@@ -1,0 +1,4 @@
+.idea
+node_modules
+wpackio.server.js
+yarn-error.log

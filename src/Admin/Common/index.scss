@@ -1,0 +1,52 @@
+#adminmenu .menu-top.c-debi_plugin {
+
+   & > .wp-menu-image {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    & > img {
+      padding: 0 0 0 0;
+      height: 20px;
+    }
+  }
+
+}
+
+
+
+#c-debi_plugin {
+
+  header {
+    display: flex;
+    align-items: center;
+    padding-top: 9px;
+    margin-bottom: 22px;
+
+    .logo {
+      height: 20px;
+      width: auto;
+      margin-top: 3px;
+    }
+
+    h1 {
+      margin-left: 5px;
+      padding: 0 0 0 0;
+    }
+
+  }
+
+  section.content {
+
+    .postbox {
+      padding: 5px 20px 20px;
+    }
+
+    #modal-root {
+      position: absolute;
+      width: 100%;
+      height: 100vh;
+    }
+
+  }
+}

@@ -1,0 +1,21 @@
+/*!
+ * 
+ * cDebi
+ * 
+ * @author 
+ * @version 0.1.0
+ * @link UNLICENSED
+ * @license UNLICENSED
+ * 
+ * Copyright (c) 2020 
+ * 
+ * This software is released under the UNLICENSED License
+ * https://opensource.org/licenses/UNLICENSED
+ * 
+ * Compiled with the help of https://wpack.io
+ * A zero setup Webpack Bundler Script for WordPress
+ */
+#adminmenu .menu-top.c-debi_plugin>.wp-menu-image{display:flex;align-items:center;justify-content:center}#adminmenu .menu-top.c-debi_plugin>.wp-menu-image>img{padding:0 0 0 0;height:20px}#c-debi_plugin header{display:flex;align-items:center;padding-top:9px;margin-bottom:22px}#c-debi_plugin header .logo{height:20px;width:auto;margin-top:3px}#c-debi_plugin header h1{margin-left:5px;padding:0 0 0 0}#c-debi_plugin section.content .postbox{padding:5px 20px 20px}#c-debi_plugin section.content #modal-root{position:absolute;width:100%;height:100vh}
+
+
+/*# sourceMappingURL=admin_common-09138683.css.map*/

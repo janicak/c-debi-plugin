@@ -1,0 +1,12 @@
+{
+  "autoload": {
+    "psr-4": {
+      "C_DEBI\\": "src/"
+    }
+  },
+  "require": {
+    "jenssegers/blade": "^1.2",
+    "wpackio/enqueue": "^2.2",
+    "guzzlehttp/guzzle": "~6.0"
+  }
+}
